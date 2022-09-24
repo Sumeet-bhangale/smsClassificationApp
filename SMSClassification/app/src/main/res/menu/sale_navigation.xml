@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_sale"
+        android:icon="@drawable/ic_view_list_black_24dp"
+        android:title="All" />
+<!--
+    <item
+        android:id="@+id/navigation_scale"
+        android:icon="@drawable/scaleweight"
+        android:title="Scale" />
+-->
+    <item
+        android:id="@+id/navigation_recovery"
+        android:icon="@drawable/ic_view_list_black_24dp"
+
+        android:title="Company" />
+    <item
+        android:id="@+id/navigation_transactional"
+        android:icon="@drawable/ic_baseline_attach_money_24"
+
+        android:title="Transactional" />
+    <item
+        android:id="@+id/navigation_duedates"
+        android:icon="@drawable/ic_baseline_date_range_24"
+
+        android:title="Due Dates" />
+    <item
+        android:id="@+id/navigation_fav"
+        android:icon="@drawable/ic_baseline_star_border_24"
+
+        android:title="Favourite" />
+
+</menu>
